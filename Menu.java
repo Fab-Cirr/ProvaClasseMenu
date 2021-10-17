@@ -21,7 +21,7 @@ while(!flagMenu){
 
   if(scelta == 1){
     System.out.println("La prima scelta");
-    System.out..println("questa è la stampa sul main branch! ");
+    System.out.println("questa è la stampa sul main branch! ");
     
 
   }else if(scelta == 2){

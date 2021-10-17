@@ -25,9 +25,8 @@ while(!flagMenu){
 
   }else if(scelta == 2){
     System.out.println("USCITA");
-    //p.clearScreen();
-    System.out.print("\033[H\033[2J"); 
-    System.out.flush(); 
+    p.clearScreen();
+
     
   }else if(scelta == 3){
     flagMenu = true;
